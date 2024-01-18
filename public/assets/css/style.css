@@ -1,0 +1,4906 @@
+.landing-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .landing-page .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1535px;
+    height: 3284px;
+    position: relative;
+  }
+  
+  .landing-page .frame {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 130px;
+    position: absolute;
+    top: 154px;
+    left: 47px;
+  }
+  
+  .landing-page .group {
+    position: relative;
+    width: 1444px;
+    height: 569px;
+    margin-right: -4px;
+  }
+  
+  .landing-page .group-2 {
+    position: relative;
+    width: 1442px;
+    height: 100px;
+    margin-right: -2px;
+  }
+  
+  .landing-page .element-brand-that {
+    position: absolute;
+    width: 165px;
+    top: 15px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #2f374b;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper {
+    font-weight: 900;
+  }
+  
+  .landing-page .span {
+    font-size: 18px;
+  }
+  
+  .landing-page .ellipse {
+    position: absolute;
+    width: 113px;
+    height: 100px;
+    top: 0;
+    left: 307px;
+  }
+  
+  .landing-page .img {
+    left: 511px;
+    position: absolute;
+    width: 113px;
+    height: 100px;
+    top: 0;
+  }
+  
+  .landing-page .ellipse-2 {
+    left: 715px;
+    position: absolute;
+    width: 113px;
+    height: 100px;
+    top: 0;
+  }
+  
+  .landing-page .ellipse-3 {
+    left: 919px;
+    position: absolute;
+    width: 113px;
+    height: 100px;
+    top: 0;
+  }
+  
+  .landing-page .ellipse-4 {
+    left: 1123px;
+    position: absolute;
+    width: 113px;
+    height: 100px;
+    top: 0;
+  }
+  
+  .landing-page .ellipse-5 {
+    left: 1327px;
+    position: absolute;
+    width: 113px;
+    height: 100px;
+    top: 0;
+  }
+  
+  .landing-page .group-wrapper {
+    position: relative;
+    width: 1440px;
+    height: 806px;
+  }
+  
+  .landing-page .group-3 {
+    position: relative;
+    width: 1240px;
+    height: 806px;
+    left: 100px;
+  }
+  
+  .landing-page .hawaiian-shirts {
+    position: absolute;
+    width: 400px;
+    height: 393px;
+    top: 0;
+    left: 0;
+    background-image: url(https://c.animaapp.com/ZGGzAZkd/img/rectangle-74@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .landing-page .text {
+    position: relative;
+    width: 147px;
+    height: 264px;
+    top: 64px;
+    left: 20px;
+  }
+  
+  .landing-page .hawaiian-shirts-2 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 28px;
+    letter-spacing: 0.56px;
+    line-height: 38.4px;
+  }
+  
+  .landing-page .p {
+    position: absolute;
+    top: 85px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-2 {
+    position: absolute;
+    top: 112px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .arrow {
+    position: absolute;
+    width: 23px;
+    height: 26px;
+    top: 165px;
+    left: 44px;
+  }
+  
+  .landing-page .button {
+    all: unset;
+    box-sizing: border-box;
+    display: flex;
+    width: 111px;
+    height: 34px;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    padding: 16px 8px;
+    position: absolute;
+    top: 230px;
+    left: 0;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #ffffff;
+  }
+  
+  .landing-page .button-2 {
+    all: unset;
+    box-sizing: border-box;
+    position: relative;
+    width: fit-content;
+    margin-top: -7px;
+    margin-bottom: -5px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .printed-t-shirt {
+    position: absolute;
+    width: 400px;
+    height: 393px;
+    top: 0;
+    left: 420px;
+    background-image: url(https://c.animaapp.com/ZGGzAZkd/img/rectangle-75@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .landing-page .text-2 {
+    position: relative;
+    width: 153px;
+    height: 318px;
+    top: 34px;
+    left: 222px;
+  }
+  
+  .landing-page .printed-t-shirt-2 {
+    position: absolute;
+    top: 62px;
+    left: 65px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 28px;
+    text-align: right;
+    letter-spacing: 0.56px;
+    line-height: 38.4px;
+  }
+  
+  .landing-page .text-wrapper-3 {
+    position: absolute;
+    top: 154px;
+    left: 4px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-4 {
+    position: absolute;
+    top: 181px;
+    left: 30px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .arrow-2 {
+    position: absolute;
+    width: 22px;
+    height: 25px;
+    top: 230px;
+    left: 86px;
+  }
+  
+  .landing-page .button-3 {
+    all: unset;
+    box-sizing: border-box;
+    display: flex;
+    width: 111px;
+    height: 34px;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    padding: 16px 8px;
+    position: absolute;
+    top: 284px;
+    left: 42px;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #ffffff;
+  }
+  
+  .landing-page .button-4 {
+    all: unset;
+    box-sizing: border-box;
+    display: flex;
+    width: 104px;
+    height: 34px;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    padding: 16px 8px;
+    position: absolute;
+    top: 0;
+    left: 49px;
+    background-color: #3c4242;
+    border-radius: 4px;
+  }
+  
+  .landing-page .button-5 {
+    all: unset;
+    box-sizing: border-box;
+    position: relative;
+    width: fit-content;
+    margin-top: -7px;
+    margin-bottom: -5px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .cargo-joggers {
+    position: absolute;
+    width: 400px;
+    height: 393px;
+    top: 0;
+    left: 840px;
+    background-image: url(https://c.animaapp.com/ZGGzAZkd/img/rectangle-76@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .landing-page .text-3 {
+    position: relative;
+    width: 156px;
+    height: 261px;
+    top: 65px;
+    left: 227px;
+  }
+  
+  .landing-page .cargo-joggers-2 {
+    position: absolute;
+    top: -1px;
+    left: 1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #3c4242;
+    font-size: 28px;
+    letter-spacing: 0.56px;
+    line-height: 38.4px;
+  }
+  
+  .landing-page .move-with-style {
+    position: absolute;
+    top: 85px;
+    left: 1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #3c4242;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-5 {
+    position: absolute;
+    top: 112px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #3c4242;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .arrow-3 {
+    position: absolute;
+    width: 23px;
+    height: 26px;
+    top: 165px;
+    left: 50px;
+  }
+  
+  .landing-page .button-6 {
+    all: unset;
+    box-sizing: border-box;
+    display: flex;
+    width: 111px;
+    height: 34px;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    padding: 16px 8px;
+    position: absolute;
+    top: 227px;
+    left: 6px;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #3c4242;
+  }
+  
+  .landing-page .button-7 {
+    all: unset;
+    box-sizing: border-box;
+    position: relative;
+    width: fit-content;
+    margin-top: -7px;
+    margin-bottom: -5px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #3c4242;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .oversized-t-shirts {
+    position: absolute;
+    width: 610px;
+    height: 393px;
+    top: 413px;
+    left: 630px;
+    background-image: url(https://c.animaapp.com/ZGGzAZkd/img/rectangle-78.png);
+    background-size: 100% 100%;
+  }
+  
+  .landing-page .text-4 {
+    position: relative;
+    width: 164px;
+    height: 297px;
+    top: 45px;
+    left: 350px;
+  }
+  
+  .landing-page .oversized-t-shirts-2 {
+    position: absolute;
+    top: -1px;
+    left: 1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #3c4242;
+    font-size: 32px;
+    letter-spacing: 0.64px;
+    line-height: 43.9px;
+  }
+  
+  .landing-page .text-wrapper-6 {
+    position: absolute;
+    top: 98px;
+    left: 1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #3c4242;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-7 {
+    position: absolute;
+    top: 129px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #3c4242;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .arrow-4 {
+    position: absolute;
+    width: 26px;
+    height: 29px;
+    top: 189px;
+    left: 52px;
+  }
+  
+  .landing-page .button-8 {
+    all: unset;
+    box-sizing: border-box;
+    display: flex;
+    width: 132px;
+    height: 36px;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    padding: 16px 8px;
+    position: absolute;
+    top: 261px;
+    left: 0;
+    border-radius: 4px;
+    border: 2px solid;
+    border-color: #3c4242;
+  }
+  
+  .landing-page .button-9 {
+    all: unset;
+    box-sizing: border-box;
+    position: relative;
+    width: fit-content;
+    margin-top: -7px;
+    margin-bottom: -3px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #3c4242;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .urban-shirts {
+    position: absolute;
+    width: 610px;
+    height: 393px;
+    top: 413px;
+    left: 0;
+    background-image: url(https://c.animaapp.com/ZGGzAZkd/img/rectangle-77.png);
+    background-size: 100% 100%;
+  }
+  
+  .landing-page .text-5 {
+    position: relative;
+    width: 133px;
+    height: 297px;
+    top: 45px;
+    left: 357px;
+  }
+  
+  .landing-page .urban-shirts-2 {
+    position: absolute;
+    top: -1px;
+    left: 2px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #3c4242;
+    font-size: 32px;
+    letter-spacing: 0.64px;
+    line-height: 43.9px;
+  }
+  
+  .landing-page .text-wrapper-8 {
+    position: absolute;
+    top: 98px;
+    left: 2px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #3c4242;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-9 {
+    position: absolute;
+    top: 129px;
+    left: 2px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #3c4242;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .arrow-5 {
+    position: absolute;
+    width: 26px;
+    height: 29px;
+    top: 189px;
+    left: 53px;
+  }
+  
+  .landing-page .group-4 {
+    position: relative;
+    width: 1440px;
+    height: 454px;
+  }
+  
+  .landing-page .group-5 {
+    position: absolute;
+    width: 577px;
+    height: 356px;
+    top: 28px;
+    left: 863px;
+  }
+  
+  .landing-page .group-6 {
+    position: absolute;
+    width: 583px;
+    height: 248px;
+    top: 0;
+    left: 0;
+  }
+  
+  .landing-page .text-wrapper-10 {
+    position: absolute;
+    width: 39px;
+    top: 0;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #fe7558;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .recreating-red {
+    position: absolute;
+    width: 577px;
+    top: 42px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #2f374b;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-11 {
+    position: absolute;
+    width: 528px;
+    top: 168px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #2f374b;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .overlap-group-wrapper {
+    position: absolute;
+    width: 111px;
+    height: 40px;
+    top: 316px;
+    left: 0;
+  }
+  
+  .landing-page .overlap-group {
+    position: relative;
+    width: 109px;
+    height: 40px;
+    background-color: #fe7558;
+    border-radius: 10px;
+  }
+  
+  .landing-page .text-wrapper-12 {
+    position: absolute;
+    width: 77px;
+    top: 13px;
+    left: 16px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .overlap-wrapper {
+    position: absolute;
+    width: 757px;
+    height: 454px;
+    top: 0;
+    left: 0;
+  }
+  
+  .landing-page .overlap {
+    position: relative;
+    height: 454px;
+  }
+  
+  .landing-page .rectangle {
+    width: 213px;
+    height: 196px;
+    left: 543px;
+    background-color: #ffcfcf;
+    border-radius: 10px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .landing-page .img-wrapper {
+    position: absolute;
+    width: 628px;
+    height: 354px;
+    top: 100px;
+    left: 0;
+    background-color: #289886;
+    border-radius: 10px;
+  }
+  
+  .landing-page .group-7 {
+    position: absolute;
+    width: 128px;
+    height: 96px;
+    top: 243px;
+    left: 37px;
+  }
+  
+  .landing-page .group-8 {
+    position: absolute;
+    width: 628px;
+    height: 344px;
+    top: 61px;
+    left: 75px;
+    background-image: url(https://c.animaapp.com/ZGGzAZkd/img/rectangle-121.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-page .need-help-section-wrapper {
+    position: relative;
+    width: 1440px;
+    height: 731px;
+  }
+  
+  .landing-page .need-help-section {
+    height: 731px;
+  }
+  
+  .landing-page .frame-wrapper {
+    position: relative;
+    width: 1537px;
+    height: 731px;
+    left: -47px;
+    background-color: #319d8e;
+  }
+  
+  .landing-page .frame-2 {
+    position: relative;
+    width: 1220px;
+    height: 613px;
+    top: 59px;
+    left: 157px;
+  }
+  
+  .landing-page .frame-3 {
+    position: absolute;
+    width: 329px;
+    height: 52px;
+    top: 361px;
+    left: 746px;
+  }
+  
+  .landing-page .group-9 {
+    position: absolute;
+    width: 154px;
+    height: 51px;
+    top: 1px;
+    left: 175px;
+    background-image: url(https://c.animaapp.com/ZGGzAZkd/img/vector-4.svg);
+    background-size: 100% 100%;
+  }
+  
+  .landing-page .frame-4 {
+    position: absolute;
+    width: 78px;
+    height: 35px;
+    top: 9px;
+    left: 51px;
+  }
+  
+  .landing-page .text-wrapper-13 {
+    position: absolute;
+    top: -1px;
+    left: 2px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-14 {
+    position: absolute;
+    top: 12px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .group-10 {
+    position: absolute;
+    width: 21px;
+    height: 32px;
+    top: 11px;
+    left: 9px;
+  }
+  
+  .landing-page .group-11 {
+    position: absolute;
+    width: 154px;
+    height: 51px;
+    top: 0;
+    left: 0;
+    background-image: url(https://c.animaapp.com/ZGGzAZkd/img/vector-3.svg);
+    background-size: 100% 100%;
+  }
+  
+  .landing-page .frame-5 {
+    position: absolute;
+    width: 92px;
+    height: 34px;
+    top: 9px;
+    left: 42px;
+  }
+  
+  .landing-page .text-wrapper-15 {
+    position: absolute;
+    top: -1px;
+    left: 9px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-16 {
+    position: absolute;
+    top: 12px;
+    left: 6px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .group-12 {
+    position: absolute;
+    width: 30px;
+    height: 33px;
+    top: 9px;
+    left: 9px;
+  }
+  
+  .landing-page .icon {
+    position: absolute;
+    width: 20px;
+    height: 11px;
+    top: 491px;
+    left: 1169px;
+  }
+  
+  .landing-page .frame-6 {
+    position: absolute;
+    width: 1059px;
+    height: 292px;
+    top: 0;
+    left: 76px;
+  }
+  
+  .landing-page .frame-7 {
+    position: absolute;
+    width: 394px;
+    height: 204px;
+    top: 0;
+    left: 665px;
+  }
+  
+  .landing-page .text-wrapper-17 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #f6f6f6;
+    font-size: 28.6px;
+    letter-spacing: 0;
+    line-height: 62px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .frame-8 {
+    position: absolute;
+    width: 394px;
+    height: 127px;
+    top: 77px;
+    left: 0;
+  }
+  
+  .landing-page .text-wrapper-18 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #f6f6f6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 39px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-19 {
+    position: absolute;
+    top: 43px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #f6f6f6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 39px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-20 {
+    position: absolute;
+    top: 87px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #f6f6f6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 39px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .frame-9 {
+    position: absolute;
+    width: 162px;
+    height: 248px;
+    top: 0;
+    left: 423px;
+  }
+  
+  .landing-page .frame-10 {
+    position: absolute;
+    width: 162px;
+    height: 171px;
+    top: 77px;
+    left: 0;
+  }
+  
+  .landing-page .text-wrapper-21 {
+    position: absolute;
+    top: 131px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #f6f6f6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 39px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .frame-11 {
+    position: absolute;
+    width: 142px;
+    height: 292px;
+    top: 0;
+    left: 0;
+  }
+  
+  .landing-page .frame-12 {
+    position: absolute;
+    width: 142px;
+    height: 215px;
+    top: 77px;
+    left: 0;
+  }
+  
+  .landing-page .text-wrapper-22 {
+    position: absolute;
+    top: 175px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #f6f6f6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 39px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .frame-13 {
+    position: absolute;
+    width: 121px;
+    height: 292px;
+    top: 0;
+    left: 222px;
+  }
+  
+  .landing-page .frame-14 {
+    position: absolute;
+    width: 108px;
+    height: 215px;
+    top: 77px;
+    left: 0;
+  }
+  
+  .landing-page .text-wrapper-23 {
+    position: absolute;
+    top: 279px;
+    left: 665px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #f6f6f6;
+    font-size: 28.6px;
+    letter-spacing: 0;
+    line-height: 62px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-24 {
+    position: absolute;
+    width: 242px;
+    height: 21px;
+    top: 484px;
+    left: 76px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #f6f6f6;
+    font-size: 28.6px;
+    letter-spacing: 0;
+    line-height: 57.2px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .frame-15 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 9.97px;
+    position: absolute;
+    top: 369px;
+    left: 83px;
+  }
+  
+  .landing-page .vector-wrapper {
+    position: relative;
+    width: 37.02px;
+    height: 37.02px;
+    background-color: #f6f6f6;
+    border-radius: 10.68px;
+  }
+  
+  .landing-page .vector {
+    position: absolute;
+    width: 10px;
+    height: 18px;
+    top: 9px;
+    left: 14px;
+  }
+  
+  .landing-page .vector-2 {
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: 11px;
+    left: 11px;
+  }
+  
+  .landing-page .vector-3 {
+    width: 18px;
+    height: 14px;
+    position: absolute;
+    top: 11px;
+    left: 11px;
+  }
+  
+  .landing-page .div-wrapper {
+    position: relative;
+    width: 39.02px;
+    height: 37.02px;
+    margin-right: -2px;
+  }
+  
+  .landing-page .overlap-group-2 {
+    position: relative;
+    width: 37px;
+    height: 37px;
+    background-color: #f6f6f6;
+    border-radius: 10.68px;
+  }
+  
+  .landing-page .text-wrapper-25 {
+    position: absolute;
+    width: 16px;
+    top: 4px;
+    left: 11px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #2a2f2f;
+    font-size: 17.1px;
+    letter-spacing: 0.34px;
+    line-height: 28.5px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .line {
+    top: 455px;
+    position: absolute;
+    width: 1220px;
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .landing-page .line-2 {
+    top: 539px;
+    position: absolute;
+    width: 1220px;
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .landing-page .text-wrapper-26 {
+    position: absolute;
+    height: 36px;
+    top: 576px;
+    left: 377px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .task-baar-wrapper {
+    position: absolute;
+    width: 1535px;
+    height: 127px;
+    top: 0;
+    left: 0;
+  }
+  
+  .landing-page .task-baar {
+    height: 127px;
+  }
+  
+  .landing-page .overlap-group-3 {
+    position: relative;
+    width: 1440px;
+    height: 108px;
+    left: 48px;
+  }
+  
+  .landing-page .frame-16 {
+    position: absolute;
+    width: 1237px;
+    height: 45px;
+    top: 31px;
+    left: 101px;
+  }
+  
+  .landing-page .details {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    position: absolute;
+    top: 9px;
+    left: 179px;
+  }
+  
+  .landing-page .text-wrapper-27 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto Mono", Helvetica;
+    font-weight: 400;
+    color: #807d7e;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-28 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto Mono", Helvetica;
+    font-weight: 400;
+    color: #7f7c7d;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .button-10 {
+    all: unset;
+    box-sizing: border-box;
+    display: flex;
+    width: 267px;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 20px;
+    position: absolute;
+    top: 0;
+    left: 738px;
+    background-color: #f6f6f6;
+    border-radius: 8px;
+  }
+  
+  .landing-page .img-2 {
+    position: relative;
+    width: 20px;
+    height: 20px;
+  }
+  
+  .landing-page .button-11 {
+    all: unset;
+    box-sizing: border-box;
+    position: relative;
+    width: fit-content;
+    margin-top: -0.5px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #807d7e;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .frame-17 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 12px;
+    position: absolute;
+    top: 0;
+    left: 1081px;
+  }
+  
+  .landing-page .component {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    padding: 12px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #f6f6f6;
+    border-radius: 8px;
+  }
+  
+  .landing-page .black-and-white {
+    position: absolute;
+    width: 119px;
+    height: 60px;
+    top: -8px;
+    left: 12px;
+  }
+  
+  .landing-page .rectangle-2 {
+    width: 1440px;
+    height: 108px;
+    left: 0;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #bebcbd;
+    position: absolute;
+    top: 0;
+  }
+  
+  .woman {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .woman .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1535px;
+    height: 4883px;
+    position: relative;
+  }
+  
+  .woman .overlap {
+    width: 1535px;
+    height: 2145px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman .overlap-group {
+    width: 1535px;
+    height: 1816px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman .group {
+    position: absolute;
+    width: 295px;
+    height: 1708px;
+    top: 108px;
+    left: 147px;
+    background-image: url(https://c.animaapp.com/zGZ1l90d/img/lines.png);
+    background-size: 100% 100%;
+  }
+  
+  .woman .frame {
+    position: absolute;
+    width: 235px;
+    height: 26px;
+    top: 20px;
+    left: 30px;
+  }
+  
+  .woman .text-wrapper {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #000000;
+    font-size: 22px;
+    letter-spacing: 0.44px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .filter {
+    position: absolute;
+    width: 16px;
+    height: 18px;
+    top: 3px;
+    left: 219px;
+  }
+  
+  .woman .frame-2 {
+    position: absolute;
+    width: 232px;
+    height: 26px;
+    top: 481px;
+    left: 30px;
+  }
+  
+  .woman .icon {
+    position: absolute;
+    width: 12px;
+    height: 7px;
+    top: 10px;
+    left: 218px;
+  }
+  
+  .woman .frame-3 {
+    position: absolute;
+    width: 232px;
+    height: 26px;
+    top: 1100px;
+    left: 30px;
+  }
+  
+  .woman .frame-4 {
+    position: absolute;
+    width: 232px;
+    height: 26px;
+    top: 1378px;
+    left: 30px;
+  }
+  
+  .woman .frame-5 {
+    position: absolute;
+    width: 232px;
+    height: 26px;
+    top: 703px;
+    left: 30px;
+  }
+  
+  .woman .frame-6 {
+    position: absolute;
+    width: 230px;
+    height: 315px;
+    top: 106px;
+    left: 32px;
+  }
+  
+  .woman .frame-7 {
+    position: absolute;
+    width: 230px;
+    height: 19px;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman .text-wrapper-2 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .img {
+    position: absolute;
+    width: 7px;
+    height: 13px;
+    top: 3px;
+    left: 224px;
+  }
+  
+  .woman .frame-8 {
+    position: absolute;
+    width: 230px;
+    height: 19px;
+    top: 37px;
+    left: 0;
+  }
+  
+  .woman .frame-9 {
+    position: absolute;
+    width: 230px;
+    height: 19px;
+    top: 74px;
+    left: 0;
+  }
+  
+  .woman .frame-10 {
+    position: absolute;
+    width: 230px;
+    height: 19px;
+    top: 111px;
+    left: 0;
+  }
+  
+  .woman .frame-11 {
+    position: absolute;
+    width: 230px;
+    height: 19px;
+    top: 148px;
+    left: 0;
+  }
+  
+  .woman .frame-12 {
+    position: absolute;
+    width: 230px;
+    height: 19px;
+    top: 185px;
+    left: 0;
+  }
+  
+  .woman .frame-13 {
+    position: absolute;
+    width: 230px;
+    height: 19px;
+    top: 222px;
+    left: 0;
+  }
+  
+  .woman .frame-14 {
+    position: absolute;
+    width: 230px;
+    height: 19px;
+    top: 259px;
+    left: 0;
+  }
+  
+  .woman .frame-15 {
+    position: absolute;
+    width: 230px;
+    height: 19px;
+    top: 296px;
+    left: 0;
+  }
+  
+  .woman .frame-16 {
+    position: absolute;
+    width: 230px;
+    height: 204px;
+    top: 1464px;
+    left: 32px;
+  }
+  
+  .woman .text-wrapper-3 {
+    position: absolute;
+    top: 36px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .text-wrapper-4 {
+    position: absolute;
+    top: 73px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .text-wrapper-5 {
+    position: absolute;
+    top: 110px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .text-wrapper-6 {
+    position: absolute;
+    top: 147px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .text-wrapper-7 {
+    position: absolute;
+    top: 184px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .icon-2 {
+    position: absolute;
+    width: 7px;
+    height: 13px;
+    top: 40px;
+    left: 224px;
+  }
+  
+  .woman .icon-3 {
+    position: absolute;
+    width: 7px;
+    height: 13px;
+    top: 77px;
+    left: 224px;
+  }
+  
+  .woman .icon-4 {
+    position: absolute;
+    width: 7px;
+    height: 13px;
+    top: 114px;
+    left: 224px;
+  }
+  
+  .woman .icon-5 {
+    position: absolute;
+    width: 7px;
+    height: 13px;
+    top: 151px;
+    left: 224px;
+  }
+  
+  .woman .icon-6 {
+    position: absolute;
+    width: 7px;
+    height: 13px;
+    top: 188px;
+    left: 224px;
+  }
+  
+  .woman .frame-17 {
+    position: absolute;
+    width: 230px;
+    height: 76px;
+    top: 567px;
+    left: 31px;
+  }
+  
+  .woman .slider-input-one {
+    position: absolute;
+    width: 230px;
+    height: 24px;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman .overlap-group-2 {
+    position: relative;
+    width: 225px;
+    height: 34px;
+    top: -4px;
+  }
+  
+  .woman .bg {
+    position: absolute;
+    width: 225px;
+    height: 3px;
+    top: 13px;
+    left: 0;
+    background-color: #000000;
+    border-radius: 4px;
+    opacity: 0.6;
+  }
+  
+  .woman .bar-left {
+    position: absolute;
+    width: 87px;
+    height: 3px;
+    top: 13px;
+    left: 65px;
+    background-color: #8a33fd;
+    border-radius: 4px;
+  }
+  
+  .woman .left {
+    position: absolute;
+    width: 32px;
+    height: 34px;
+    top: 0;
+    left: 55px;
+  }
+  
+  .woman .right {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 6px;
+    left: 144px;
+    background-color: #8a33fd;
+    border-radius: 8px;
+    box-shadow: var(--s2);
+  }
+  
+  .woman .frame-18 {
+    position: absolute;
+    width: 224px;
+    height: 32px;
+    top: 44px;
+    left: 4px;
+  }
+  
+  .woman .div-wrapper {
+    position: absolute;
+    width: 97px;
+    height: 32px;
+    top: 0;
+    left: 0;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #000000cc;
+  }
+  
+  .woman .text-wrapper-8 {
+    top: 5px;
+    left: 33px;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .frame-19 {
+    position: absolute;
+    width: 97px;
+    height: 32px;
+    top: 0;
+    left: 127px;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #000000cc;
+  }
+  
+  .woman .text-wrapper-9 {
+    top: 5px;
+    left: 28px;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .frame-20 {
+    position: absolute;
+    width: 223px;
+    height: 132px;
+    top: 1186px;
+    left: 36px;
+  }
+  
+  .woman .overlap-2 {
+    position: absolute;
+    width: 61px;
+    height: 32px;
+    top: 0;
+    left: 0;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #000000cc;
+  }
+  
+  .woman .text-wrapper-10 {
+    position: absolute;
+    top: 5px;
+    left: 16px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .overlap-3 {
+    position: absolute;
+    width: 61px;
+    height: 32px;
+    top: 50px;
+    left: 0;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #000000cc;
+  }
+  
+  .woman .text-wrapper-11 {
+    top: 5px;
+    left: 25px;
+    font-weight: 100;
+    font-style: italic;
+    color: #000000;
+    font-size: 14px;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .overlap-4 {
+    position: absolute;
+    width: 61px;
+    height: 32px;
+    top: 100px;
+    left: 0;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #000000cc;
+  }
+  
+  .woman .text-wrapper-12 {
+    position: absolute;
+    top: 5px;
+    left: 14px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .overlap-5 {
+    position: absolute;
+    width: 61px;
+    height: 32px;
+    top: 0;
+    left: 81px;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #000000cc;
+  }
+  
+  .woman .text-wrapper-13 {
+    position: absolute;
+    top: 5px;
+    left: 21px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .overlap-6 {
+    position: absolute;
+    width: 61px;
+    height: 32px;
+    top: 50px;
+    left: 81px;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #000000cc;
+  }
+  
+  .woman .text-wrapper-14 {
+    position: absolute;
+    top: 5px;
+    left: 24px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .overlap-7 {
+    position: absolute;
+    width: 61px;
+    height: 32px;
+    top: 100px;
+    left: 81px;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #000000cc;
+  }
+  
+  .woman .text-wrapper-15 {
+    position: absolute;
+    top: 5px;
+    left: 17px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .overlap-8 {
+    position: absolute;
+    width: 61px;
+    height: 32px;
+    top: 0;
+    left: 162px;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #000000cc;
+  }
+  
+  .woman .overlap-9 {
+    position: absolute;
+    width: 61px;
+    height: 32px;
+    top: 50px;
+    left: 162px;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #000000cc;
+  }
+  
+  .woman .overlap-10 {
+    position: absolute;
+    width: 61px;
+    height: 32px;
+    top: 100px;
+    left: 162px;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #000000cc;
+  }
+  
+  .woman .text-wrapper-16 {
+    position: absolute;
+    top: 5px;
+    left: 17px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .frame-21 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 18px;
+    position: absolute;
+    top: 789px;
+    left: 38px;
+  }
+  
+  .woman .frame-22 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .woman .rectangle {
+    position: relative;
+    width: 36.73px;
+    height: 36.73px;
+    background-color: #8434e1;
+    border-radius: 12px;
+  }
+  
+  .woman .text-wrapper-17 {
+    position: relative;
+    width: fit-content;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .rectangle-2 {
+    background-color: #345eff;
+    position: relative;
+    width: 36.73px;
+    height: 36.73px;
+    border-radius: 12px;
+  }
+  
+  .woman .rectangle-3 {
+    background-color: #fdc761;
+    position: relative;
+    width: 36.73px;
+    height: 36.73px;
+    border-radius: 12px;
+  }
+  
+  .woman .rectangle-4 {
+    position: relative;
+    width: 36.73px;
+    height: 36.73px;
+    background-color: #252525;
+    border-radius: 12px;
+  }
+  
+  .woman .rectangle-5 {
+    background-color: #ffffff;
+    border: 0.97px solid;
+    border-color: #f4f1f1;
+    position: relative;
+    width: 36.73px;
+    height: 36.73px;
+    border-radius: 12px;
+  }
+  
+  .woman .rectangle-6 {
+    background-color: #e4e5e8;
+    position: relative;
+    width: 36.73px;
+    height: 36.73px;
+    border-radius: 12px;
+  }
+  
+  .woman .rectangle-7 {
+    position: relative;
+    width: 36.73px;
+    height: 36.73px;
+    background-color: #f35528;
+    border-radius: 12px;
+  }
+  
+  .woman .rectangle-8 {
+    background-color: #d67e3b;
+    position: relative;
+    width: 36.73px;
+    height: 36.73px;
+    border-radius: 12px;
+  }
+  
+  .woman .rectangle-9 {
+    background-color: #e08d9d;
+    position: relative;
+    width: 36.73px;
+    height: 36.73px;
+    border-radius: 12px;
+  }
+  
+  .woman .rectangle-10 {
+    position: relative;
+    width: 36.73px;
+    height: 36.73px;
+    background-color: #f16f2b;
+    border-radius: 12px;
+  }
+  
+  .woman .rectangle-11 {
+    background-color: #48bc4e;
+    position: relative;
+    width: 36.73px;
+    height: 36.73px;
+    border-radius: 12px;
+  }
+  
+  .woman .rectangle-12 {
+    background-color: #3edeff;
+    position: relative;
+    width: 36.73px;
+    height: 36.73px;
+    border-radius: 12px;
+  }
+  
+  .woman .task-baar-wrapper {
+    position: absolute;
+    width: 1535px;
+    height: 127px;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman .task-baar {
+    height: 127px;
+  }
+  
+  .woman .overlap-group-3 {
+    position: relative;
+    width: 1440px;
+    height: 108px;
+    left: 48px;
+  }
+  
+  .woman .frame-23 {
+    position: absolute;
+    width: 1237px;
+    height: 45px;
+    top: 31px;
+    left: 101px;
+  }
+  
+  .woman .details {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    position: absolute;
+    top: 9px;
+    left: 179px;
+  }
+  
+  .woman .text-wrapper-18 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto Mono", Helvetica;
+    font-weight: 400;
+    color: #807d7e;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .woman .text-wrapper-19 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto Mono", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .woman .text-wrapper-20 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto Mono", Helvetica;
+    font-weight: 400;
+    color: #7f7c7d;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .woman .button {
+    all: unset;
+    box-sizing: border-box;
+    display: flex;
+    width: 267px;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 20px;
+    position: absolute;
+    top: 0;
+    left: 738px;
+    background-color: #f6f6f6;
+    border-radius: 8px;
+  }
+  
+  .woman .img-2 {
+    position: relative;
+    width: 20px;
+    height: 20px;
+  }
+  
+  .woman .button-2 {
+    all: unset;
+    box-sizing: border-box;
+    position: relative;
+    width: fit-content;
+    margin-top: -0.5px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #807d7e;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .frame-24 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 12px;
+    position: absolute;
+    top: 0;
+    left: 1081px;
+  }
+  
+  .woman .component {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    padding: 12px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #f6f6f6;
+    border-radius: 8px;
+  }
+  
+  .woman .black-and-white {
+    position: absolute;
+    width: 119px;
+    height: 60px;
+    top: -8px;
+    left: 12px;
+  }
+  
+  .woman .rectangle-13 {
+    position: absolute;
+    width: 1440px;
+    height: 108px;
+    top: 0;
+    left: 0;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #bebcbd;
+  }
+  
+  .woman .group-2 {
+    position: absolute;
+    width: 894px;
+    height: 1914px;
+    top: 231px;
+    left: 492px;
+  }
+  
+  .woman .product {
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 282px;
+    height: 441px;
+  }
+  
+  .woman .frame-wrapper {
+    width: 282px;
+    height: 370px;
+    background-image: url(https://c.animaapp.com/zGZ1l90d/img/rectangle-25-24@2x.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman .heart-wrapper {
+    position: relative;
+    width: 32px;
+    height: 32px;
+    top: 27px;
+    left: 229px;
+    background-color: #ffffff;
+    border-radius: 16.18px;
+  }
+  
+  .woman .heart {
+    position: absolute;
+    width: 15px;
+    height: 13px;
+    top: 10px;
+    left: 8px;
+  }
+  
+  .woman .frame-25 {
+    position: absolute;
+    width: 281px;
+    height: 41px;
+    top: 400px;
+    left: 0;
+  }
+  
+  .woman .frame-26 {
+    position: absolute;
+    width: 166px;
+    height: 41px;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman .text-wrapper-21 {
+    color: #3c4242;
+    font-size: 16px;
+    letter-spacing: 0;
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .jhanvi-s-brand {
+    position: absolute;
+    top: 23px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #807d7e;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .frame-27 {
+    position: absolute;
+    width: 82px;
+    height: 37px;
+    top: 2px;
+    left: 199px;
+    background-color: #f6f6f6;
+    border-radius: 8px;
+  }
+  
+  .woman .text-wrapper-22 {
+    top: 9px;
+    left: 15px;
+    font-weight: 700;
+    color: #3c4242;
+    font-size: 14px;
+    text-align: center;
+    position: absolute;
+    font-family: "Roboto", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .product-2 {
+    top: 491px;
+    left: 0;
+    position: absolute;
+    width: 282px;
+    height: 441px;
+  }
+  
+  .woman .overlap-11 {
+    width: 282px;
+    height: 370px;
+    background-image: url(https://c.animaapp.com/zGZ1l90d/img/rectangle-25-22@2x.png);
+    background-size: 100% 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman .element {
+    left: 19px;
+    position: absolute;
+    top: 9px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #3c4242;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .product-3 {
+    top: 982px;
+    left: 0;
+    position: absolute;
+    width: 282px;
+    height: 441px;
+  }
+  
+  .woman .overlap-12 {
+    width: 282px;
+    height: 370px;
+    background-image: url(https://c.animaapp.com/zGZ1l90d/img/rectangle-25-21@2x.png);
+    background-size: 100% 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman .product-4 {
+    top: 3px;
+    left: 306px;
+    position: absolute;
+    width: 282px;
+    height: 441px;
+  }
+  
+  .woman .overlap-13 {
+    width: 282px;
+    height: 370px;
+    background-image: url(https://c.animaapp.com/zGZ1l90d/img/rectangle-25-20@2x.png);
+    background-size: 100% 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman .product-5 {
+    top: 491px;
+    left: 306px;
+    position: absolute;
+    width: 282px;
+    height: 441px;
+  }
+  
+  .woman .overlap-14 {
+    width: 282px;
+    height: 370px;
+    background-image: url(https://c.animaapp.com/zGZ1l90d/img/rectangle-25-19@2x.png);
+    background-size: 100% 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman .product-6 {
+    top: 982px;
+    left: 306px;
+    position: absolute;
+    width: 282px;
+    height: 441px;
+  }
+  
+  .woman .overlap-15 {
+    width: 282px;
+    height: 370px;
+    background-image: url(https://c.animaapp.com/zGZ1l90d/img/rectangle-25-18@2x.png);
+    background-size: 100% 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman .product-7 {
+    top: 3px;
+    left: 612px;
+    position: absolute;
+    width: 282px;
+    height: 441px;
+  }
+  
+  .woman .overlap-16 {
+    width: 282px;
+    height: 370px;
+    background-image: url(https://c.animaapp.com/zGZ1l90d/img/rectangle-25-17@2x.png);
+    background-size: 100% 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman .product-8 {
+    top: 491px;
+    left: 612px;
+    position: absolute;
+    width: 282px;
+    height: 441px;
+  }
+  
+  .woman .overlap-17 {
+    width: 282px;
+    height: 370px;
+    background-image: url(https://c.animaapp.com/zGZ1l90d/img/rectangle-25-16@2x.png);
+    background-size: 100% 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman .product-9 {
+    top: 982px;
+    left: 612px;
+    position: absolute;
+    width: 282px;
+    height: 441px;
+  }
+  
+  .woman .overlap-18 {
+    width: 282px;
+    height: 370px;
+    background-image: url(https://c.animaapp.com/zGZ1l90d/img/rectangle-25-15@2x.png);
+    background-size: 100% 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman .product-10 {
+    top: 1473px;
+    left: 0;
+    position: absolute;
+    width: 282px;
+    height: 441px;
+  }
+  
+  .woman .overlap-19 {
+    width: 282px;
+    height: 370px;
+    background-image: url(https://c.animaapp.com/zGZ1l90d/img/rectangle-25-14@2x.png);
+    background-size: 100% 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman .product-11 {
+    top: 1473px;
+    left: 306px;
+    position: absolute;
+    width: 282px;
+    height: 441px;
+  }
+  
+  .woman .overlap-20 {
+    width: 282px;
+    height: 370px;
+    background-image: url(https://c.animaapp.com/zGZ1l90d/img/rectangle-25-13@2x.png);
+    background-size: 100% 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman .product-12 {
+    top: 1473px;
+    left: 612px;
+    position: absolute;
+    width: 282px;
+    height: 441px;
+  }
+  
+  .woman .overlap-21 {
+    width: 282px;
+    height: 370px;
+    background-image: url(https://c.animaapp.com/zGZ1l90d/img/rectangle-25-12@2x.png);
+    background-size: 100% 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman .frame-28 {
+    position: absolute;
+    width: 895px;
+    height: 26px;
+    top: 158px;
+    left: 492px;
+  }
+  
+  .woman .text-wrapper-23 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 600;
+    font-style: italic;
+    color: #000000;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .text-wrapper-24 {
+    position: absolute;
+    top: -1px;
+    left: 684px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 600;
+    font-style: italic;
+    color: #8a33fd;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .text-wrapper-25 {
+    position: absolute;
+    top: -1px;
+    left: 751px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 600;
+    font-style: italic;
+    color: #000000;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .group-3 {
+    position: absolute;
+    width: 894px;
+    height: 1914px;
+    top: 2187px;
+    left: 492px;
+  }
+  
+  .woman .need-help-section-wrapper {
+    position: absolute;
+    width: 1534px;
+    height: 731px;
+    top: 4152px;
+    left: 1px;
+  }
+  
+  .woman .need-help-section {
+    height: 731px;
+  }
+  
+  .woman .overlap-22 {
+    position: relative;
+    width: 1537px;
+    height: 731px;
+    left: -1px;
+    background-color: #319d8e;
+  }
+  
+  .woman .frame-29 {
+    position: relative;
+    width: 1220px;
+    height: 613px;
+    top: 59px;
+    left: 158px;
+  }
+  
+  .woman .frame-30 {
+    position: absolute;
+    width: 329px;
+    height: 52px;
+    top: 361px;
+    left: 746px;
+  }
+  
+  .woman .group-4 {
+    position: absolute;
+    width: 154px;
+    height: 51px;
+    top: 1px;
+    left: 175px;
+    background-image: url(https://c.animaapp.com/zGZ1l90d/img/vector-4.svg);
+    background-size: 100% 100%;
+  }
+  
+  .woman .frame-31 {
+    position: absolute;
+    width: 78px;
+    height: 35px;
+    top: 9px;
+    left: 51px;
+  }
+  
+  .woman .text-wrapper-26 {
+    position: absolute;
+    top: -1px;
+    left: 2px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .text-wrapper-27 {
+    position: absolute;
+    top: 12px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .group-5 {
+    position: absolute;
+    width: 21px;
+    height: 32px;
+    top: 11px;
+    left: 9px;
+  }
+  
+  .woman .group-6 {
+    position: absolute;
+    width: 154px;
+    height: 51px;
+    top: 0;
+    left: 0;
+    background-image: url(https://c.animaapp.com/zGZ1l90d/img/vector-3.svg);
+    background-size: 100% 100%;
+  }
+  
+  .woman .frame-32 {
+    position: absolute;
+    width: 92px;
+    height: 34px;
+    top: 9px;
+    left: 42px;
+  }
+  
+  .woman .text-wrapper-28 {
+    position: absolute;
+    top: -1px;
+    left: 9px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .text-wrapper-29 {
+    position: absolute;
+    top: 12px;
+    left: 6px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman .group-7 {
+    position: absolute;
+    width: 30px;
+    height: 33px;
+    top: 9px;
+    left: 9px;
+  }
+  
+  .woman .icon-7 {
+    position: absolute;
+    width: 20px;
+    height: 11px;
+    top: 491px;
+    left: 1169px;
+  }
+  
+  .woman .frame-33 {
+    position: absolute;
+    width: 1059px;
+    height: 292px;
+    top: 0;
+    left: 76px;
+  }
+  
+  .woman .frame-34 {
+    position: absolute;
+    width: 394px;
+    height: 204px;
+    top: 0;
+    left: 665px;
+  }
+  
+  .woman .text-wrapper-30 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #f6f6f6;
+    font-size: 28.6px;
+    letter-spacing: 0;
+    line-height: 62px;
+    white-space: nowrap;
+  }
+  
+  .woman .frame-35 {
+    position: absolute;
+    width: 394px;
+    height: 127px;
+    top: 77px;
+    left: 0;
+  }
+  
+  .woman .text-wrapper-31 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #f6f6f6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 39px;
+    white-space: nowrap;
+  }
+  
+  .woman .text-wrapper-32 {
+    position: absolute;
+    top: 43px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #f6f6f6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 39px;
+    white-space: nowrap;
+  }
+  
+  .woman .text-wrapper-33 {
+    position: absolute;
+    top: 87px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #f6f6f6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 39px;
+    white-space: nowrap;
+  }
+  
+  .woman .frame-36 {
+    position: absolute;
+    width: 162px;
+    height: 248px;
+    top: 0;
+    left: 423px;
+  }
+  
+  .woman .frame-37 {
+    position: absolute;
+    width: 162px;
+    height: 171px;
+    top: 77px;
+    left: 0;
+  }
+  
+  .woman .text-wrapper-34 {
+    position: absolute;
+    top: 131px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #f6f6f6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 39px;
+    white-space: nowrap;
+  }
+  
+  .woman .frame-38 {
+    position: absolute;
+    width: 142px;
+    height: 292px;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman .frame-39 {
+    position: absolute;
+    width: 142px;
+    height: 215px;
+    top: 77px;
+    left: 0;
+  }
+  
+  .woman .text-wrapper-35 {
+    position: absolute;
+    top: 175px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #f6f6f6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 39px;
+    white-space: nowrap;
+  }
+  
+  .woman .frame-40 {
+    position: absolute;
+    width: 121px;
+    height: 292px;
+    top: 0;
+    left: 222px;
+  }
+  
+  .woman .frame-41 {
+    position: absolute;
+    width: 108px;
+    height: 215px;
+    top: 77px;
+    left: 0;
+  }
+  
+  .woman .text-wrapper-36 {
+    position: absolute;
+    top: 279px;
+    left: 665px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #f6f6f6;
+    font-size: 28.6px;
+    letter-spacing: 0;
+    line-height: 62px;
+    white-space: nowrap;
+  }
+  
+  .woman .text-wrapper-37 {
+    position: absolute;
+    width: 242px;
+    height: 21px;
+    top: 484px;
+    left: 76px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #f6f6f6;
+    font-size: 28.6px;
+    letter-spacing: 0;
+    line-height: 57.2px;
+    white-space: nowrap;
+  }
+  
+  .woman .frame-42 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 9.97px;
+    position: absolute;
+    top: 369px;
+    left: 83px;
+  }
+  
+  .woman .vector-wrapper {
+    position: relative;
+    width: 37.02px;
+    height: 37.02px;
+    background-color: #f6f6f6;
+    border-radius: 10.68px;
+  }
+  
+  .woman .vector {
+    position: absolute;
+    width: 10px;
+    height: 18px;
+    top: 9px;
+    left: 14px;
+  }
+  
+  .woman .vector-2 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 11px;
+    left: 11px;
+  }
+  
+  .woman .vector-3 {
+    position: absolute;
+    width: 18px;
+    height: 14px;
+    top: 11px;
+    left: 11px;
+  }
+  
+  .woman .overlap-group-wrapper {
+    position: relative;
+    width: 39.02px;
+    height: 37.02px;
+    margin-right: -2px;
+  }
+  
+  .woman .overlap-group-4 {
+    position: relative;
+    width: 37px;
+    height: 37px;
+    background-color: #f6f6f6;
+    border-radius: 10.68px;
+  }
+  
+  .woman .text-wrapper-38 {
+    position: absolute;
+    width: 16px;
+    top: 4px;
+    left: 11px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #2a2f2f;
+    font-size: 17.1px;
+    letter-spacing: 0.34px;
+    line-height: 28.5px;
+    white-space: nowrap;
+  }
+  
+  .woman .line {
+    top: 455px;
+    position: absolute;
+    width: 1220px;
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .woman .line-2 {
+    top: 539px;
+    position: absolute;
+    width: 1220px;
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .woman .p {
+    position: absolute;
+    height: 36px;
+    top: 576px;
+    left: 377px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .woman-details {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .woman-details .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1535px;
+    height: 3278px;
+    position: relative;
+  }
+  
+  .woman-details .group {
+    position: absolute;
+    width: 1239px;
+    height: 421px;
+    top: 993px;
+    left: 148px;
+  }
+  
+  .woman-details .product-description {
+    position: absolute;
+    width: 304px;
+    height: 31px;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman-details .text-wrapper {
+    position: absolute;
+    width: 284px;
+    top: -1px;
+    left: 21px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #3c4242;
+    font-size: 28px;
+    letter-spacing: 0.56px;
+    line-height: 33.5px;
+    white-space: nowrap;
+  }
+  
+  .woman-details .rectangle {
+    position: absolute;
+    width: 6px;
+    height: 28px;
+    top: 1px;
+    left: 0;
+    background-color: #8a33fd;
+    border-radius: 10px;
+  }
+  
+  .woman-details .description {
+    position: absolute;
+    width: 610px;
+    height: 145px;
+    top: 61px;
+    left: 0;
+  }
+  
+  .woman-details .element-bio-washed {
+    position: absolute;
+    width: 610px;
+    top: 69px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #807d7e;
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    line-height: 25px;
+  }
+  
+  .woman-details .frame {
+    position: absolute;
+    width: 491px;
+    height: 40px;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman-details .text-wrapper-2 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #3c4242;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .frame-2 {
+    position: absolute;
+    width: 159px;
+    height: 22px;
+    top: 0;
+    left: 119px;
+  }
+  
+  .woman-details .text-wrapper-3 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #807d7e;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .div-wrapper {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 1px;
+    left: 136px;
+    background-color: #8a33fd;
+    border-radius: 4px;
+  }
+  
+  .woman-details .text-wrapper-4 {
+    position: absolute;
+    width: 9px;
+    height: 12px;
+    top: 3px;
+    left: 5px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 10px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .frame-3 {
+    position: absolute;
+    width: 185px;
+    height: 22px;
+    top: 0;
+    left: 308px;
+  }
+  
+  .woman-details .frame-4 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 1px;
+    left: 162px;
+    background-color: #3c4242;
+    border-radius: 4px;
+  }
+  
+  .woman-details .line {
+    position: absolute;
+    width: 44px;
+    height: 1px;
+    top: 39px;
+    left: -1px;
+  }
+  
+  .woman-details .product-tabel {
+    position: absolute;
+    width: 612px;
+    height: 185px;
+    top: 236px;
+    left: 0;
+  }
+  
+  .woman-details .overlap-group {
+    position: relative;
+    height: 185px;
+    border-radius: 12px;
+  }
+  
+  .woman-details .rectangle-2 {
+    position: absolute;
+    width: 612px;
+    height: 185px;
+    top: 0;
+    left: 0;
+    background-color: #f6f6f6;
+    border-radius: 12px;
+    opacity: 0.6;
+  }
+  
+  .woman-details .img {
+    position: absolute;
+    width: 612px;
+    height: 1px;
+    top: 91px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .woman-details .frame-5 {
+    position: absolute;
+    width: 516px;
+    height: 172px;
+    top: 7px;
+    left: 48px;
+  }
+  
+  .woman-details .line-2 {
+    position: absolute;
+    width: 1px;
+    height: 172px;
+    top: 0;
+    left: 187px;
+    object-fit: cover;
+  }
+  
+  .woman-details .line-3 {
+    position: absolute;
+    width: 1px;
+    height: 172px;
+    top: 0;
+    left: 376px;
+    object-fit: cover;
+  }
+  
+  .woman-details .frame-6 {
+    position: absolute;
+    width: 138px;
+    height: 44px;
+    top: 17px;
+    left: 0;
+    overflow: hidden;
+  }
+  
+  .woman-details .text-wrapper-5 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #807d7e;
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .woman-details .text-wrapper-6 {
+    position: absolute;
+    top: 27px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #3c4242;
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .woman-details .frame-7 {
+    position: absolute;
+    width: 52px;
+    height: 44px;
+    top: 17px;
+    left: 238px;
+  }
+  
+  .woman-details .frame-8 {
+    position: absolute;
+    width: 89px;
+    height: 44px;
+    top: 17px;
+    left: 427px;
+  }
+  
+  .woman-details .frame-9 {
+    position: absolute;
+    width: 138px;
+    height: 44px;
+    top: 109px;
+    left: 0;
+  }
+  
+  .woman-details .frame-10 {
+    position: absolute;
+    width: 89px;
+    height: 44px;
+    top: 109px;
+    left: 238px;
+  }
+  
+  .woman-details .frame-11 {
+    position: absolute;
+    width: 89px;
+    height: 44px;
+    top: 109px;
+    left: 427px;
+  }
+  
+  .woman-details .overlap-wrapper {
+    position: absolute;
+    width: 532px;
+    height: 328px;
+    top: 47px;
+    left: 707px;
+    background-image: url(https://c.animaapp.com/kEtvhqzz/img/rectangle-23.png);
+    background-size: 100% 100%;
+  }
+  
+  .woman-details .overlap {
+    position: relative;
+    height: 328px;
+    border-radius: 12px;
+  }
+  
+  .woman-details .rectangle-3 {
+    position: absolute;
+    width: 532px;
+    height: 328px;
+    top: 0;
+    left: 0;
+    background-color: #3c4242;
+    border-radius: 12px;
+    opacity: 0.4;
+  }
+  
+  .woman-details .frame-12 {
+    position: absolute;
+    width: 370px;
+    height: 162px;
+    top: 131px;
+    left: 81px;
+  }
+  
+  .woman-details .polygon-wrapper {
+    position: absolute;
+    width: 53px;
+    height: 53px;
+    top: 0;
+    left: 159px;
+    background-color: #f6f6f6;
+    border-radius: 26.5px;
+  }
+  
+  .woman-details .polygon {
+    position: absolute;
+    width: 18px;
+    height: 19px;
+    top: 17px;
+    left: 19px;
+  }
+  
+  .woman-details .p {
+    position: absolute;
+    top: 135px;
+    left: -11px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 22px;
+    letter-spacing: 0.44px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .text-wrapper-7 {
+    position: absolute;
+    top: 26px;
+    left: 454px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0.36px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .group-2 {
+    position: absolute;
+    width: 1239px;
+    height: 993px;
+    top: 1514px;
+    left: 148px;
+  }
+  
+  .woman-details .text-wrapper-8 {
+    position: absolute;
+    width: 237px;
+    top: -1px;
+    left: 33px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #3c4242;
+    font-size: 28px;
+    letter-spacing: 0.56px;
+    line-height: 33.5px;
+    white-space: nowrap;
+  }
+  
+  .woman-details .product {
+    position: absolute;
+    width: 282px;
+    height: 441px;
+    top: 61px;
+    left: 0;
+  }
+  
+  .woman-details .frame-wrapper {
+    position: absolute;
+    width: 282px;
+    height: 370px;
+    top: 0;
+    left: 0;
+    background-image: url(https://c.animaapp.com/kEtvhqzz/img/rectangle-25-7@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .woman-details .heart-wrapper {
+    position: relative;
+    width: 32px;
+    height: 32px;
+    top: 27px;
+    left: 229px;
+    background-color: #ffffff;
+    border-radius: 16.18px;
+  }
+  
+  .woman-details .heart {
+    position: absolute;
+    width: 15px;
+    height: 13px;
+    top: 10px;
+    left: 8px;
+  }
+  
+  .woman-details .frame-13 {
+    position: absolute;
+    width: 281px;
+    height: 41px;
+    top: 400px;
+    left: 0;
+  }
+  
+  .woman-details .frame-14 {
+    position: absolute;
+    width: 166px;
+    height: 41px;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman-details .black-sweatshirt {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #3c4242;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .jhanvi-s-brand {
+    position: absolute;
+    top: 23px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #807d7e;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .frame-15 {
+    position: absolute;
+    width: 82px;
+    height: 37px;
+    top: 2px;
+    left: 199px;
+    background-color: #f6f6f6;
+    border-radius: 8px;
+  }
+  
+  .woman-details .element {
+    position: absolute;
+    top: 9px;
+    left: 19px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #3c4242;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .product-2 {
+    position: absolute;
+    width: 282px;
+    height: 441px;
+    top: 552px;
+    left: 0;
+  }
+  
+  .woman-details .overlap-2 {
+    position: absolute;
+    width: 282px;
+    height: 370px;
+    top: 0;
+    left: 0;
+    background-image: url(https://c.animaapp.com/kEtvhqzz/img/rectangle-25-6@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .woman-details .text-wrapper-9 {
+    position: absolute;
+    top: 9px;
+    left: 15px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #3c4242;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .product-3 {
+    position: absolute;
+    width: 282px;
+    height: 441px;
+    top: 61px;
+    left: 319px;
+  }
+  
+  .woman-details .overlap-3 {
+    position: absolute;
+    width: 282px;
+    height: 370px;
+    top: 0;
+    left: 0;
+    background-image: url(https://c.animaapp.com/kEtvhqzz/img/rectangle-25-5@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .woman-details .product-4 {
+    position: absolute;
+    width: 282px;
+    height: 441px;
+    top: 552px;
+    left: 319px;
+  }
+  
+  .woman-details .overlap-4 {
+    position: absolute;
+    width: 282px;
+    height: 370px;
+    top: 0;
+    left: 0;
+    background-image: url(https://c.animaapp.com/kEtvhqzz/img/rectangle-25-4@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .woman-details .product-5 {
+    position: absolute;
+    width: 282px;
+    height: 441px;
+    top: 61px;
+    left: 638px;
+  }
+  
+  .woman-details .overlap-5 {
+    position: absolute;
+    width: 282px;
+    height: 370px;
+    top: 0;
+    left: 0;
+    background-image: url(https://c.animaapp.com/kEtvhqzz/img/rectangle-25-3@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .woman-details .product-6 {
+    position: absolute;
+    width: 282px;
+    height: 441px;
+    top: 552px;
+    left: 638px;
+  }
+  
+  .woman-details .overlap-6 {
+    position: absolute;
+    width: 282px;
+    height: 370px;
+    top: 0;
+    left: 0;
+    background-image: url(https://c.animaapp.com/kEtvhqzz/img/rectangle-25-2@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .woman-details .product-7 {
+    position: absolute;
+    width: 282px;
+    height: 441px;
+    top: 61px;
+    left: 957px;
+  }
+  
+  .woman-details .overlap-7 {
+    position: absolute;
+    width: 282px;
+    height: 370px;
+    top: 0;
+    left: 0;
+    background-image: url(https://c.animaapp.com/kEtvhqzz/img/rectangle-25-1@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .woman-details .product-8 {
+    position: absolute;
+    width: 282px;
+    height: 441px;
+    top: 552px;
+    left: 957px;
+  }
+  
+  .woman-details .overlap-8 {
+    position: absolute;
+    width: 282px;
+    height: 370px;
+    top: 0;
+    left: 0;
+    background-image: url(https://c.animaapp.com/kEtvhqzz/img/rectangle-25@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .woman-details .overlap-9 {
+    position: absolute;
+    width: 1535px;
+    height: 893px;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman-details .group-3 {
+    position: absolute;
+    width: 1349px;
+    height: 785px;
+    top: 108px;
+    left: 94px;
+  }
+  
+  .woman-details .raven-hoodie-with {
+    position: absolute;
+    width: 393px;
+    top: 87px;
+    left: 815px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #3c4242;
+    font-size: 34px;
+    letter-spacing: 0.68px;
+    line-height: 47.6px;
+  }
+  
+  .woman-details .frame-16 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    position: absolute;
+    top: 210px;
+    left: 815px;
+  }
+  
+  .woman-details .frame-17 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .woman-details .star {
+    position: relative;
+    width: 22px;
+    height: 22px;
+  }
+  
+  .woman-details .star-2 {
+    position: absolute;
+    width: 21px;
+    height: 20px;
+    top: 0;
+    left: 1px;
+  }
+  
+  .woman-details .text-wrapper-10 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.5px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #807d7e;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .frame-18 {
+    display: flex;
+    width: 146px;
+    height: 22px;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    position: absolute;
+    top: 210px;
+    left: 1031px;
+  }
+  
+  .woman-details .message-icon {
+    position: relative;
+    width: 21.5px;
+    height: 19.19px;
+    margin-left: -1.25px;
+  }
+  
+  .woman-details .text-wrapper-11 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.5px;
+    margin-right: -0.5px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #807d7e;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .overlap-10 {
+    position: absolute;
+    width: 741px;
+    height: 785px;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman-details .rectangle-4 {
+    position: absolute;
+    width: 281px;
+    height: 784px;
+    top: 1px;
+    left: 0;
+    background-color: #f6f6f6;
+  }
+  
+  .woman-details .frame-19 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24.34px;
+    position: absolute;
+    top: 225px;
+    left: 111px;
+  }
+  
+  .woman-details .frame-20 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 22.68px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .woman-details .image {
+    position: relative;
+    width: 68.04px;
+    height: 68.04px;
+    background-image: url(https://c.animaapp.com/kEtvhqzz/img/rectangle-10-1@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .woman-details .rectangle-5 {
+    width: 68px;
+    height: 68px;
+    border-radius: 9.07px;
+    border: 0.53px solid;
+    border-color: #ffffff;
+  }
+  
+  .woman-details .overlap-group-wrapper {
+    position: relative;
+    width: 75.6px;
+    height: 75.6px;
+  }
+  
+  .woman-details .overlap-group-2 {
+    position: relative;
+    width: 77px;
+    height: 77px;
+    border-radius: 12.1px;
+  }
+  
+  .woman-details .rectangle-6 {
+    position: absolute;
+    width: 68px;
+    height: 68px;
+    top: 5px;
+    left: 5px;
+  }
+  
+  .woman-details .rectangle-7 {
+    position: absolute;
+    width: 77px;
+    height: 77px;
+    top: 0;
+    left: 0;
+    border-radius: 12.1px;
+    border: 0.76px solid;
+    border-color: #3c4242;
+  }
+  
+  .woman-details .rectangle-wrapper {
+    position: relative;
+    width: 68.04px;
+    height: 68.04px;
+    background-image: url(https://c.animaapp.com/kEtvhqzz/img/rectangle-10@2x.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .woman-details .frame-21 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12.17px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .woman-details .left-stroke-wrapper {
+    position: relative;
+    width: 21.17px;
+    height: 21.17px;
+    background-color: #ffffff;
+    border-radius: 10.58px;
+    box-shadow: 0.76px 0.76px 3.02px #0000000a;
+  }
+  
+  .woman-details .left-stroke {
+    position: absolute;
+    width: 8px;
+    height: 5px;
+    top: 8px;
+    left: 7px;
+  }
+  
+  .woman-details .frame-22 {
+    position: relative;
+    width: 21.17px;
+    height: 21.17px;
+  }
+  
+  .woman-details .overlap-group-3 {
+    position: relative;
+    width: 21px;
+    height: 21px;
+    border-radius: 10.58px;
+  }
+  
+  .woman-details .ellipse {
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    top: 0;
+    left: 0;
+    background-color: #3c4242;
+    border-radius: 10.58px;
+    transform: rotate(180deg);
+    box-shadow: 0.76px 0.76px 3.02px #0000000a;
+  }
+  
+  .woman-details .left-stroke-2 {
+    position: absolute;
+    width: 8px;
+    height: 5px;
+    top: 8px;
+    left: 6px;
+  }
+  
+  .woman-details .rectangle-8 {
+    position: absolute;
+    width: 520px;
+    height: 785px;
+    top: 0;
+    left: 221px;
+    object-fit: cover;
+  }
+  
+  .woman-details .frame-23 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 25px;
+    position: absolute;
+    top: 267px;
+    left: 815px;
+  }
+  
+  .woman-details .frame-24 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 20px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .woman-details .text-wrapper-12 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #3f4646;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .frame-25 {
+    display: inline-flex;
+    align-items: center;
+    gap: 15px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .woman-details .text-wrapper-13 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    color: #807d7e;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .arrow {
+    position: relative;
+    width: 15.39px;
+    height: 13.8px;
+    margin-right: -0.9px;
+  }
+  
+  .woman-details .frame-26 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .woman-details .size {
+    position: relative;
+    width: 42px;
+    height: 42px;
+  }
+  
+  .woman-details .overlap-group-4 {
+    position: relative;
+    width: 38px;
+    height: 38px;
+    border-radius: 12px;
+    border: 1.5px solid;
+    border-color: #bebbbc;
+  }
+  
+  .woman-details .text-wrapper-14 {
+    position: absolute;
+    width: 20px;
+    height: 16px;
+    top: 8px;
+    left: 8px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #3c4242;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .woman-details .s-wrapper {
+    position: relative;
+    width: 38px;
+    height: 38px;
+    background-color: #3c4141;
+    border-radius: 12px;
+  }
+  
+  .woman-details .s {
+    position: absolute;
+    width: 9px;
+    top: 9px;
+    left: 14px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .woman-details .frame-27 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 25px;
+    position: absolute;
+    top: 391px;
+    left: 815px;
+  }
+  
+  .woman-details .frame-28 {
+    display: inline-flex;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .woman-details .colour {
+    position: relative;
+    width: 30px;
+    height: 30px;
+  }
+  
+  .woman-details .overlap-group-5 {
+    position: relative;
+    height: 30px;
+    border-radius: 15px;
+  }
+  
+  .woman-details .ellipse-2 {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 4px;
+    left: 4px;
+    background-color: #3c4242;
+    border-radius: 11px;
+  }
+  
+  .woman-details .ellipse-3 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    border: 1px solid;
+    border-color: #3f4646;
+  }
+  
+  .woman-details .colour-2 {
+    background-color: #edd146;
+    position: relative;
+    width: 22px;
+    height: 22px;
+    border-radius: 11px;
+  }
+  
+  .woman-details .colour-3 {
+    background-color: #eb84b0;
+    position: relative;
+    width: 22px;
+    height: 22px;
+    border-radius: 11px;
+  }
+  
+  .woman-details .colour-4 {
+    background-color: #9c1f35;
+    position: relative;
+    width: 22px;
+    height: 22px;
+    border-radius: 11px;
+  }
+  
+  .woman-details .line-4 {
+    position: absolute;
+    width: 534px;
+    height: 1px;
+    top: 586px;
+    left: 812px;
+    object-fit: cover;
+  }
+  
+  .woman-details .frame-29 {
+    position: absolute;
+    width: 219px;
+    height: 50px;
+    top: 627px;
+    left: 814px;
+  }
+  
+  .woman-details .img-wrapper {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 0;
+    left: 0;
+    background-color: #f6f6f6;
+    border-radius: 22px;
+  }
+  
+  .woman-details .credit-card {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 14px;
+    left: 14px;
+  }
+  
+  .woman-details .text-wrapper-15 {
+    position: absolute;
+    top: 10px;
+    left: 59px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #3c4242;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .frame-30 {
+    position: absolute;
+    width: 193px;
+    height: 50px;
+    top: 697px;
+    left: 814px;
+  }
+  
+  .woman-details .truck {
+    position: absolute;
+    width: 19px;
+    height: 15px;
+    top: 14px;
+    left: 12px;
+  }
+  
+  .woman-details .frame-31 {
+    position: absolute;
+    width: 246px;
+    height: 50px;
+    top: 697px;
+    left: 1101px;
+  }
+  
+  .woman-details .img-2 {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    top: 13px;
+    left: 13px;
+  }
+  
+  .woman-details .frame-32 {
+    position: absolute;
+    width: 154px;
+    height: 50px;
+    top: 627px;
+    left: 1101px;
+  }
+  
+  .woman-details .add-to-cart {
+    position: absolute;
+    width: 362px;
+    height: 46px;
+    top: 504px;
+    left: 815px;
+  }
+  
+  .woman-details .button {
+    all: unset;
+    box-sizing: border-box;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    padding: 12px 40px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #f8775b;
+    border-radius: 8px;
+  }
+  
+  .woman-details .img-3 {
+    position: relative;
+    width: 20px;
+    height: 20px;
+  }
+  
+  .woman-details .button-2 {
+    all: unset;
+    box-sizing: border-box;
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 100;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .button-3 {
+    all: unset;
+    box-sizing: border-box;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    padding: 12px 40px;
+    position: absolute;
+    top: 0;
+    left: 224px;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #3c4242;
+  }
+  
+  .woman-details .button-4 {
+    all: unset;
+    box-sizing: border-box;
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #3c4242;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .task-baar-wrapper {
+    position: absolute;
+    width: 1535px;
+    height: 127px;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman-details .task-baar {
+    height: 127px;
+  }
+  
+  .woman-details .overlap-group-6 {
+    position: relative;
+    width: 1440px;
+    height: 108px;
+    left: 48px;
+  }
+  
+  .woman-details .frame-33 {
+    position: absolute;
+    width: 1237px;
+    height: 45px;
+    top: 31px;
+    left: 101px;
+  }
+  
+  .woman-details .details {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    position: absolute;
+    top: 9px;
+    left: 179px;
+  }
+  
+  .woman-details .text-wrapper-16 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto Mono", Helvetica;
+    font-weight: 400;
+    color: #807d7e;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .woman-details .text-wrapper-17 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto Mono", Helvetica;
+    font-weight: 400;
+    color: #7f7c7d;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .woman-details .button-5 {
+    all: unset;
+    box-sizing: border-box;
+    display: flex;
+    width: 267px;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 20px;
+    position: absolute;
+    top: 0;
+    left: 738px;
+    background-color: #f6f6f6;
+    border-radius: 8px;
+  }
+  
+  .woman-details .button-6 {
+    all: unset;
+    box-sizing: border-box;
+    position: relative;
+    width: fit-content;
+    margin-top: -0.5px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #807d7e;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .frame-34 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 12px;
+    position: absolute;
+    top: 0;
+    left: 1081px;
+  }
+  
+  .woman-details .component {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    padding: 12px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #f6f6f6;
+    border-radius: 8px;
+  }
+  
+  .woman-details .black-and-white {
+    position: absolute;
+    width: 119px;
+    height: 60px;
+    top: -8px;
+    left: 12px;
+  }
+  
+  .woman-details .rectangle-9 {
+    position: absolute;
+    width: 1440px;
+    height: 108px;
+    top: 0;
+    left: 0;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #bebcbd;
+  }
+  
+  .woman-details .need-help-section-wrapper {
+    position: absolute;
+    width: 1534px;
+    height: 731px;
+    top: 2547px;
+    left: 1px;
+  }
+  
+  .woman-details .need-help-section {
+    height: 731px;
+  }
+  
+  .woman-details .overlap-11 {
+    position: relative;
+    width: 1537px;
+    height: 731px;
+    left: -1px;
+    background-color: #319d8e;
+  }
+  
+  .woman-details .frame-35 {
+    position: relative;
+    width: 1220px;
+    height: 613px;
+    top: 59px;
+    left: 158px;
+  }
+  
+  .woman-details .frame-36 {
+    position: absolute;
+    width: 329px;
+    height: 52px;
+    top: 361px;
+    left: 746px;
+  }
+  
+  .woman-details .group-4 {
+    position: absolute;
+    width: 154px;
+    height: 51px;
+    top: 1px;
+    left: 175px;
+    background-image: url(https://c.animaapp.com/kEtvhqzz/img/vector-4.svg);
+    background-size: 100% 100%;
+  }
+  
+  .woman-details .frame-37 {
+    position: absolute;
+    width: 78px;
+    height: 35px;
+    top: 9px;
+    left: 51px;
+  }
+  
+  .woman-details .text-wrapper-18 {
+    position: absolute;
+    top: -1px;
+    left: 2px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .text-wrapper-19 {
+    position: absolute;
+    top: 12px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .group-5 {
+    position: absolute;
+    width: 21px;
+    height: 32px;
+    top: 11px;
+    left: 9px;
+  }
+  
+  .woman-details .group-6 {
+    position: absolute;
+    width: 154px;
+    height: 51px;
+    top: 0;
+    left: 0;
+    background-image: url(https://c.animaapp.com/kEtvhqzz/img/vector-3.svg);
+    background-size: 100% 100%;
+  }
+  
+  .woman-details .frame-38 {
+    position: absolute;
+    width: 92px;
+    height: 34px;
+    top: 9px;
+    left: 42px;
+  }
+  
+  .woman-details .text-wrapper-20 {
+    position: absolute;
+    top: -1px;
+    left: 9px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .text-wrapper-21 {
+    position: absolute;
+    top: 12px;
+    left: 6px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .woman-details .group-7 {
+    position: absolute;
+    width: 30px;
+    height: 33px;
+    top: 9px;
+    left: 9px;
+  }
+  
+  .woman-details .icon {
+    position: absolute;
+    width: 20px;
+    height: 11px;
+    top: 491px;
+    left: 1169px;
+  }
+  
+  .woman-details .frame-39 {
+    position: absolute;
+    width: 1059px;
+    height: 292px;
+    top: 0;
+    left: 76px;
+  }
+  
+  .woman-details .frame-40 {
+    position: absolute;
+    width: 394px;
+    height: 204px;
+    top: 0;
+    left: 665px;
+  }
+  
+  .woman-details .text-wrapper-22 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #f6f6f6;
+    font-size: 28.6px;
+    letter-spacing: 0;
+    line-height: 62px;
+    white-space: nowrap;
+  }
+  
+  .woman-details .frame-41 {
+    position: absolute;
+    width: 394px;
+    height: 127px;
+    top: 77px;
+    left: 0;
+  }
+  
+  .woman-details .text-wrapper-23 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #f6f6f6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 39px;
+    white-space: nowrap;
+  }
+  
+  .woman-details .text-wrapper-24 {
+    position: absolute;
+    top: 43px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #f6f6f6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 39px;
+    white-space: nowrap;
+  }
+  
+  .woman-details .text-wrapper-25 {
+    position: absolute;
+    top: 87px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #f6f6f6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 39px;
+    white-space: nowrap;
+  }
+  
+  .woman-details .frame-42 {
+    position: absolute;
+    width: 162px;
+    height: 248px;
+    top: 0;
+    left: 423px;
+  }
+  
+  .woman-details .frame-43 {
+    position: absolute;
+    width: 162px;
+    height: 171px;
+    top: 77px;
+    left: 0;
+  }
+  
+  .woman-details .text-wrapper-26 {
+    position: absolute;
+    top: 131px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #f6f6f6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 39px;
+    white-space: nowrap;
+  }
+  
+  .woman-details .frame-44 {
+    position: absolute;
+    width: 142px;
+    height: 292px;
+    top: 0;
+    left: 0;
+  }
+  
+  .woman-details .frame-45 {
+    position: absolute;
+    width: 142px;
+    height: 215px;
+    top: 77px;
+    left: 0;
+  }
+  
+  .woman-details .text-wrapper-27 {
+    position: absolute;
+    top: 175px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #f6f6f6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 39px;
+    white-space: nowrap;
+  }
+  
+  .woman-details .frame-46 {
+    position: absolute;
+    width: 121px;
+    height: 292px;
+    top: 0;
+    left: 222px;
+  }
+  
+  .woman-details .frame-47 {
+    position: absolute;
+    width: 108px;
+    height: 215px;
+    top: 77px;
+    left: 0;
+  }
+  
+  .woman-details .text-wrapper-28 {
+    position: absolute;
+    top: 279px;
+    left: 665px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #f6f6f6;
+    font-size: 28.6px;
+    letter-spacing: 0;
+    line-height: 62px;
+    white-space: nowrap;
+  }
+  
+  .woman-details .text-wrapper-29 {
+    position: absolute;
+    width: 242px;
+    height: 21px;
+    top: 484px;
+    left: 76px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #f6f6f6;
+    font-size: 28.6px;
+    letter-spacing: 0;
+    line-height: 57.2px;
+    white-space: nowrap;
+  }
+  
+  .woman-details .frame-48 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 9.97px;
+    position: absolute;
+    top: 369px;
+    left: 83px;
+  }
+  
+  .woman-details .vector-wrapper {
+    position: relative;
+    width: 37.02px;
+    height: 37.02px;
+    background-color: #f6f6f6;
+    border-radius: 10.68px;
+  }
+  
+  .woman-details .vector {
+    position: absolute;
+    width: 10px;
+    height: 18px;
+    top: 9px;
+    left: 14px;
+  }
+  
+  .woman-details .vector-2 {
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: 11px;
+    left: 11px;
+  }
+  
+  .woman-details .vector-3 {
+    width: 18px;
+    height: 14px;
+    position: absolute;
+    top: 11px;
+    left: 11px;
+  }
+  
+  .woman-details .group-8 {
+    position: relative;
+    width: 39.02px;
+    height: 37.02px;
+    margin-right: -2px;
+  }
+  
+  .woman-details .overlap-group-7 {
+    position: relative;
+    width: 37px;
+    height: 37px;
+    background-color: #f6f6f6;
+    border-radius: 10.68px;
+  }
+  
+  .woman-details .text-wrapper-30 {
+    position: absolute;
+    width: 16px;
+    top: 4px;
+    left: 11px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #2a2f2f;
+    font-size: 17.1px;
+    letter-spacing: 0.34px;
+    line-height: 28.5px;
+    white-space: nowrap;
+  }
+  
+  .woman-details .line-5 {
+    position: absolute;
+    width: 1220px;
+    height: 1px;
+    top: 455px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .woman-details .line-6 {
+    position: absolute;
+    width: 1220px;
+    height: 1px;
+    top: 539px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .woman-details .text-wrapper-31 {
+    position: absolute;
+    height: 36px;
+    top: 576px;
+    left: 377px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  

@@ -1,0 +1,98 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,500,400,700,italic|Roboto+Mono:400");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
+@font-face {
+  font-family: "Causten-Medium";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/62916fe33066729c851cfe34/fonts/causten-medium.otf")
+    format("opentype");
+}
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,600,500,400,700,italic|Roboto+Mono:400");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
+@font-face {
+  font-family: "Causten-Medium";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/62916fe33066729c851cfe34/fonts/causten-medium.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Causten-SemiBold";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/62916fe33066729c851cfe34/fonts/causten-semibold.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Causten-Bold";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/62916fe33066729c851cfe34/fonts/causten-bold.otf")
+    format("opentype");
+}
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,500,400,700,italic|Roboto+Mono:400");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
+@font-face {
+  font-family: "Causten-Medium";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/62916fe33066729c851cfe34/fonts/causten-medium.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Causten-SemiBold";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/62916fe33066729c851cfe34/fonts/causten-semibold.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Causten-Bold";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/62916fe33066729c851cfe34/fonts/causten-bold.otf")
+    format("opentype");
+}
